@@ -2,7 +2,7 @@
 - 👀 I’m interested in react/react-native/angular/node/mysql
 - 🌱 I’m currently learning react-native
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me email srikanth.varma@live.in
+- 📫 How to reach me email me@rootedxpert.dev
 
 <!---
 RootedXpert/RootedXpert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
