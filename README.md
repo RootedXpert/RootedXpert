@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RootedXpert
 - 👀 I’m interested in react/react-native/angular/node/mysql
 - 🌱 I’m currently learning react-native
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on MYsql/Angular/React/Express/Node
 - 📫 How to reach me email me@rootedxpert.dev
 
 <!---
